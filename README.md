@@ -3,7 +3,7 @@
 This project demonstrates how to control **three LEDs** using an **Arduino Uno**.  
 It was built and tested using **Tinkercad Circuits**, simulating a real-life Arduino setup.
 
-![Circuit Diagram](./LedConroller33.png)
+![Circuit Diagram](./LedController33.png)
 
 ---
 
